@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="github_banner (online-video-cutter.com).gif" alt="Daniel Gichovi Banner" width="1200" height="400" />
+  <img src="github_banner (online-video-cutter.com).gif" alt="Daniel Gichovi Banner" width="1200" />
 </p>
 
 ---

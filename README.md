@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Your Name]
+# Hi there 👋, I'm Daniel Gichovi.
 
 🐍 **Python Enthusiast** | 💻 **Web Developer & Freelancer** | ⚡ **Dynamic Code Advocate**
 

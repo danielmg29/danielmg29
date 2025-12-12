@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="github_banner (online-video-cutter.com).gif" alt="Daniel Gichovi Banner" />
+</p>
+
+---
+
 # Hi there 👋, I'm Daniel Gichovi.
 
 🐍 **Python Enthusiast** | 💻 **Web Developer & Freelancer** | ⚡ **Dynamic Code Advocate**

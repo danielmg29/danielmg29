@@ -18,8 +18,8 @@ I thrive on solving problems with **Django**, **Next.js**, **Tailwind CSS**, and
 
 ---
 
-## 🔥 Current Project: DFSA Series
-I’m working on a series called **DFSA (Dynamic Functional Scalable Architecture)** where I:  
+## 🔥 Current Project: Adaptive Convergence Series
+I’m working on a series called **Adaptive Convergence(New Django + NextJS)** where I:  
 - Reimagine **Django Rest Framework** by reducing reliance on classes (without removing them entirely).  
 - Build **Backend Driven Frontends** → dynamic components generated from backend models (no repetitive forms 🚫).  
 - Extend this philosophy to **CRUD, WebSockets, AI**, and other repetitive web functions.  
